@@ -18,8 +18,7 @@ nav > ul {
   background-color: #eee8d5;
 }
 
-contents, favs, facts and types
-{
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
@@ -35,7 +34,7 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-rel="external":link {
+[rel="external"]:link {
   background-color: #2694d8;
 }
 
